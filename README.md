@@ -30,7 +30,7 @@ This project contains **4 microservices**:
 
 ### **1. Create IAM Roles**
 
-You created:
+ created:
 
 * **EKS Cluster Role**
 * **EKS Node Group Role**
